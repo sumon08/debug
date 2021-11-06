@@ -1,0 +1,7 @@
+Debug
+.vs
+sim
+rtos
+*.atsln
+*.*.xml
+*.cproj
